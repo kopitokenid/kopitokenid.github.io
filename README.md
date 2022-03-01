@@ -1,2 +1,2 @@
-# kopitokenid.github.io
-Official landing page theme.
+# Kopi Token
+Launch soon!
