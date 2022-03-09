@@ -1,2 +1,0 @@
-# Kopi Token
-Launch soon!
